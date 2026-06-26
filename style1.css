@@ -1,0 +1,32 @@
+body
+{
+width:100%;
+margin: 0px,0px,0px,0px;
+padding: 0px,0px,0px,0px;
+}
+#container
+{
+margin: 2px,2px,2px,2px;
+padding: 2px,2px,2px,2px;
+background-color: #808080;
+width :80%;
+}
+.row
+{
+width: 80%;
+display:block;
+}
+
+.first
+{
+background-color: cadetblue;
+width: 30%;
+display: inline;
+float: left;
+}
+.second
+{
+background-color: coral;
+width: 40%;
+float: right;
+}
